@@ -10,7 +10,7 @@ My research interests:
 
 📝 Find more information about me on my [personal page](https://robin-hlt.github.io/).
 
-📫 Contact me via 202412621441@nuist.edu.cn and welcome to collaborate and communicate!
+📫 Contact me via litao.hua@nuist.edu.cn and welcome to collaborate and communicate!
 <!--
 **robin-hlt/robin-hlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
