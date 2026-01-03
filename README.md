@@ -4,9 +4,10 @@
 I'm currently a second-year postgraduate student at **Nanjing University of Information Science and Technology (NUIST)**, supervised by **Prof. [Yuan Zhou](https://faculty.nuist.edu.cn/YuanZHOU/en/index.htm)**.
 
 My research interests:
-- 🧠 **Multimodal Large Language Models (MLLMs)**
+- 🧠 **Multimodal Large Language Models**
 - 🖼 **Image & 3D Generation**
 - 🎥 **Video Understanding**
+- 🤖 **Embodied Intelligence**
 
 📝 Find more information about me on my [personal page](https://robin-hlt.github.io/).
 
